@@ -3,3 +3,4 @@ Yes, It is so!
 end.
 Proba of the branch
 Second commit for a branch
+non fast-forward merge
