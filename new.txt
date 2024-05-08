@@ -4,3 +4,5 @@ end.
 Proba of the branch
 Second commit for a branch
 non fast-forward merge
+1 row
+2 row
